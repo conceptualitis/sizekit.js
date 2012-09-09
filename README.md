@@ -56,5 +56,5 @@ Sizekit.js creates a friendly global object named `sk`. You and `sk` are going t
 
 Big caveats right here:
 
-* I've only tested this in Chrome Canary so ha ha hrm good luck! Well, that's not entirely true. I've done the bare minimum to get it functioning in Firebug
+* I've only tested this in Chrome Canary so ha ha hrm good luck! Well, that's not entirely true. I've done the bare minimum to get it functioning in Firefox.
 * Non-pixel units are somewhat supported (but not really).
